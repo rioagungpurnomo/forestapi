@@ -1,4 +1,4 @@
-<p align="center"><img src="https://forestapi.pythonanywhere.com/static/images/forestapi.png" width="150" alt="Forest API"></p>
+<p align="center"><img src="https://rioagungpurnomo.github.io/assets/img/forestapi.png" width="150" alt="Forest API"></p>
 
 # Forest API
 A collection of unlimited free APIs that can be used anytime and anywhere.
@@ -7,36 +7,36 @@ A collection of unlimited free APIs that can be used anytime and anywhere.
 ### User
 #### Get User Information
 ```bash
-api/github/user/<username>
+https://forestapi.up.railway.app/api/github/user/<username>
 ```
 #### Get Repository List
 ```bash
-api/github/user/<username>/repos
+https://forestapi.up.railway.app/api/github/user/<username>/repos
 ```
 #### Get Followers List
 ```bash
-api/github/user/<username>/followers
+https://forestapi.up.railway.app/api/github/user/<username>/followers
 ```
 #### Get Following List
 ```bash
-api/github/user/<username>/following
+https://forestapi.up.railway.app/api/github/user/<username>/following
 ```
 #### Get Stars List
 ```bash
-api/github/user/<username>/stars
+https://forestapi.up.railway.app/api/github/user/<username>/stars
 ```
 ### Repository
 #### Get Repository Information
 ```bash
-api/github/repository/<username>/<repository>
+https://forestapi.up.railway.app/api/github/repository/<username>/<repository>
 ```
 #### Get Repository Stars List
 ```bash
-api/github/repository/<username>/<repository>/stars
+https://forestapi.up.railway.app/api/github/repository/<username>/<repository>/stars
 ```
 #### Get Repository Forks List
 ```bash
-api/github/repository/<username>/<repository>/forks
+https://forestapi.up.railway.app/api/github/repository/<username>/<repository>/forks
 ```
 ### Git CDN
 ```bash
@@ -46,63 +46,63 @@ cdn/github/repository/<username>/<repository>/<branch>/<file_path>
 ## WhatsApp API
 ### Get Group Information
 ```bash
-api/whatsapp/group/<id>
+https://forestapi.up.railway.app/api/whatsapp/group/<id>
 ```
 
 ## YouTube API
 ### Get Channel Information
 ```bash
-api/youtube/channel/<channel>
+https://forestapi.up.railway.app/api/youtube/channel/<channel>
 ```
 ### Get Video Information
 ```bash
-api/youtube/video/<id>
+https://forestapi.up.railway.app/api/youtube/video/<id>
 ```
 
 ## Facebook API
 ### Get User Information
 ```bash
-api/facebook/user/<username>
+https://forestapi.up.railway.app/api/facebook/user/<username>
 ```
 ### Get Video Information
 ```bash
-api/facebook/video/<id>
+https://forestapi.up.railway.app/api/facebook/video/<id>
 ```
 
 ## Instagram API
 ### Get User Information
 ```bash
-api/instagram/user/<username>
+https://forestapi.up.railway.app/api/instagram/user/<username>
 ```
 ### Get Post List
 ```bash
-api/instagram/user/<username>/posts
+https://forestapi.up.railway.app/api/instagram/user/<username>/posts
 ```
 ### Get Video Information
 ```bash
-api/instagram/video/<id>
+https://forestapi.up.railway.app/api/instagram/video/<id>
 ```
 ### Get Video Comments List
 ```bash
-api/instagram/video/<id>/comments
+https://forestapi.up.railway.app/api/instagram/video/<id>/comments
 ```
 ### Get Photo Information
 ```bash
-api/instagram/photo/<id>
+https://forestapi.up.railway.app/api/instagram/photo/<id>
 ```
 ### Get Photo Comments List
 ```bash
-api/instagram/photo/<id>/comments
+https://forestapi.up.railway.app/api/instagram/photo/<id>/comments
 ```
 
 ## TikTok API
 ### Get User Information
 ```bash
-api/tiktok/user/<username>
+https://forestapi.up.railway.app/api/tiktok/user/<username>
 ```
 ### Get Video Information
 ```bash
-api/tiktok/video/<username>/<id>
+https://forestapi.up.railway.app/api/tiktok/video/<username>/<id>
 ```
 
 ## Donate
