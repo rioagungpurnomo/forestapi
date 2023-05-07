@@ -1,4 +1,4 @@
-<p align="center"><img src="static/images/forestapi.png" width="150" alt="Forest API"></p>
+<p align="center"><img src="https://forestapi.pythonanywhere.com/static/images/forestapi.png" width="150" alt="Forest API"></p>
 
 # Forest API
 A collection of unlimited free APIs that can be used anytime and anywhere.
