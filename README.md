@@ -12,6 +12,7 @@ Website : **[Forest API](https://forestapi.up.railway.app)**
 - **[Facebook API](https://forestapi.up.railway.app/api/facebook)**
 - **[Instagram API](https://forestapi.up.railway.app/api/instagram)**
 - **[TikTok API](https://forestapi.up.railway.app/api/tiktok)**
+- **[Telegram API](https://forestapi.up.railway.app/api/telegram)**
 
 ## Donate
 Saweria : **[Support me](https://saweria.co/rioagungpurnomo)**
