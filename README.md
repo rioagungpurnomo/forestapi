@@ -5,8 +5,7 @@ A collection of unlimited free APIs that can be used anytime and anywhere.
 
 Website : **[Forest API](https://forestapi.up.railway.app)**
 
-
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/?referralCode=rioagungpurnomo)
 
 ## APIs List
 - **[Github API](https://forestapi.up.railway.app/api/github)**
