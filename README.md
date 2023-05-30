@@ -5,8 +5,6 @@ A collection of unlimited free APIs that can be used anytime and anywhere.
 
 Website : **[Forest API](https://forestapi.my.id)**
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/?referralCode=rioagungpurnomo)
-
 ## APIs List
 - **[Github API](https://forestapi.my.id/api/github)**
 - **[WhatsApp API](https://forestapi.my.id/api/whatsapp)**
@@ -22,4 +20,4 @@ Saweria : **[Support me](https://saweria.co/rioagungpurnomo)**
 
 Trakteer : **[Support me](https://trakteer.id/rioagungpurnomo)**
 
-Paypal : **[Support me](https://www.paypal.me/RioDev)**
+Paypal : **[Support me](https://www.paypal.me/rioagungpurnomoo)**
