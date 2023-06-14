@@ -18,6 +18,9 @@ Site Map : **[View](https://www.forestapi.my.id/static/sitemap.xml)**
 - **[TikTok API](https://www.forestapi.my.id/api/tiktok)**
 - **[Telegram API](https://www.forestapi.my.id/api/telegram)**
 - **[Snapchat API](https://www.forestapi.my.id/api/snapchat)**
+- **[IP API](https://www.forestapi.my.id/api/ip)**
+- **[DNS API](https://www.forestapi.my.id/api/dns)**
+- **[Web API](https://www.forestapi.my.id/api/web)**
 
 ## Donate
 
