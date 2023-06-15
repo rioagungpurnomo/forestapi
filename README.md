@@ -22,10 +22,7 @@ Site Map : **[View](https://www.forestapi.my.id/static/sitemap.xml)**
 - **[DNS API](https://www.forestapi.my.id/api/dns)**
 - **[Web API](https://www.forestapi.my.id/api/web)**
 
-## Donate
-
-Saweria : **[Support me](https://saweria.co/rioagungpurnomo)**
-
-Trakteer : **[Support me](https://trakteer.id/rioagungpurnomo)**
-
-Paypal : **[Support me](https://www.paypal.me/rioagungpurnomoo)**
+### Donate
+- [Saweria](https://saweria.co/rioagungpurnomo)
+- [Trakteer](https://trakteer.id/rioagungpurnomo)
+- [PayPal](https://www.paypal.me/rioagungpurnomoo)
